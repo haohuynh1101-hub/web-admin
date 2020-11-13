@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bánh cưới W003",
+      "price": 800,
+      "img": "https://banhkemvanilla.com/wp-content/uploads/2019/10/IMG_1568601222154_1568601842527.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bánh kem sữa tươi F001",
+      "price": 500,
+      "img": "https://banhkemvanilla.com/wp-content/uploads/2019/10/Screenshot_20190831-225016_Pinterest.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bánh kem sữa tươi U001",
+      "price": 700,
+      "img": "https://banhkemvanilla.com/wp-content/uploads/2019/10/IMG_1570821259503_1570821320649.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bánh kem C002",
+      "price": 900,
+      "img": "https://banhkemvanilla.com/wp-content/uploads/2019/10/2019-09-14-13-08-16.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bánh kem M002",
+      "price": 400,
+      "img": "https://banhkemvanilla.com/wp-content/uploads/2019/10/IMG_1569699699125_1569699739760.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bánh kem M003",
+      "price": 200,
+      "img": "https://banhkemvanilla.com/wp-content/uploads/2019/10/20190902_001647.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Bánh cưới W004",
+      "price": 600,
+      "img": "https://banhkemvanilla.com/wp-content/uploads/2019/10/IMG_1568601222154_1568601842527.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Bánh cưới W005",
+      "price": 700,
+      "img": "https://banhkemvanilla.com/wp-content/uploads/2019/10/2019-09-23-19-32-261.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Bánh cưới W006",
+      "price": 800,
+      "img": "https://banhkemvanilla.com/wp-content/uploads/2019/10/IMG_1566232108003_1566232146181.jpg"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+table {
+    border-color: #f1f1f1;
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.main {
+    margin: 2rem 0;
+}
+.add {
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    box-shadow: 0.4px 0.4px 12px rgba(0, 0, 0, 0.2);
+    border-radius: 0.5rem;
+    transition: all 0.45s ease-in-out;
+    font-weight: bold;
+    background-color: #536976;
+    padding: 0.5rem;
+    margin: 2rem 0;
+}
+.add:hover {
+    background-color: #bbd2c5;
+}
+table th {
+    text-align: center;
+    color: #684f40;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 16 px;
+    line-height: 2;
+}
+table thead {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+table tr {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+table td {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 2;
+}
+.product-stt {
+    width: 100px;
+}
+.product-img img {
+    width: 120px;
+    height: 120px;
+    padding: 1rem;
+}
+.product-name {
+    width: 240px;
+}
+.product-price {
+    width: 185px;
+}
+.product-quantity {
+    width: 185px;
+}
+.product-action {
+    width: 185px;
+}
+.product-action button {
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    box-shadow: 0.4px 0.4px 12px rgba(0, 0, 0, 0.2);
+    border-radius: 1rem;
+    width: 60px;
+    height: 30px;
+}
+.product-action button {
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    box-shadow: 0.4px 0.4px 12px rgba(0, 0, 0, 0.2);
+    border-radius: 1rem;
+    width: 60px;
+    height: 30px;
+    transition: all 0.45s ease-in-out;
+}

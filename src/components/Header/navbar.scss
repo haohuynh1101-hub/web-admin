@@ -1,0 +1,51 @@
+.header-navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem;
+    align-items: center;
+    border-bottom: 2px solid #f2f2f2;
+}
+.header-navbar input {
+    margin: 0 1rem;
+    border: none;
+    outline: none;
+}
+
+ul li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 0 1.5rem;
+    position: relative;
+}
+
+ul li i {
+    font-size: 17px;
+    cursor: pointer;
+}
+ul li img {
+    width: 36px;
+    height: 36px;
+    box-shadow: 0.4px 0.4px 12px rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+}
+ul li span {
+    font-size: 16px;
+    line-height: 12px;
+    font-weight: 400;
+    margin-left: 2px;
+}
+ul li img,
+span {
+    cursor: pointer;
+}
+.notify {
+    background-color: #ff3c7e;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 12px;
+    line-height: 1;
+    padding: 3px 5.5px;
+    position: absolute;
+    right: 3px;
+    top: -4px;
+}
